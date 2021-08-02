@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Xyber Commander",
+      "day": "August 2nd at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "They see me taskin, they hatin",
+      "day": "August 3rd at 4:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Get Batteries",
+      "day": "Tuesday",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
