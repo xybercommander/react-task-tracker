@@ -6,7 +6,8 @@ Follow the first 2 scripts for the running the projects
 
 ### `npm run server`
 
-Start the json-server for the Tasks which is running on the port 5000 by default<br>You can change the port from pacakage.json
+Start the json-server for the Tasks which is running on the port 5000 by default<br>You can change the port from package.json as <br>
+<code>json-server --watch db.json --port <your-port-name></code>
 
 ### `npm start`
 
